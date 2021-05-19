@@ -1,0 +1,2 @@
+D:\labs\sharps\lab4.2\MathDll\Debug\MathDll.dll
+D:\labs\sharps\lab4.2\MathDll\Debug\MathDll.pdb

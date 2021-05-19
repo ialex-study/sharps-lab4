@@ -1,0 +1,11 @@
+﻿  math.cpp
+D:\labs\sharps\lab4.2\MathDll\math.cpp(6,36): warning C4273: Add: несовместимое связывание dll
+D:\labs\sharps\lab4.2\MathDll\math.h(9,28): message : см. предыдущее определение "Add"
+D:\labs\sharps\lab4.2\MathDll\math.cpp(9,42): warning C4273: Substract: несовместимое связывание dll
+D:\labs\sharps\lab4.2\MathDll\math.h(14,28): message : см. предыдущее определение "Substract"
+D:\labs\sharps\lab4.2\MathDll\math.cpp(12,40): warning C4273: Compose: несовместимое связывание dll
+D:\labs\sharps\lab4.2\MathDll\math.h(17,28): message : см. предыдущее определение "Compose"
+D:\labs\sharps\lab4.2\MathDll\math.cpp(15,39): warning C4273: Divide: несовместимое связывание dll
+D:\labs\sharps\lab4.2\MathDll\math.h(20,28): message : см. предыдущее определение "Divide"
+     Создается библиотека D:\labs\sharps\lab4.2\MathDll\Debug\MathDll.lib и объект D:\labs\sharps\lab4.2\MathDll\Debug\MathDll.exp
+  MathDll.vcxproj -> D:\labs\sharps\lab4.2\MathDll\Debug\MathDll.dll
